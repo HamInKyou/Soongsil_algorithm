@@ -1,0 +1,11 @@
+﻿  main.c
+C:\soongsil\algorithm\OptimalBinarySearchTrees\OptimalBinarySearchTrees\main.c(21,13): warning C4305:  '=': 'double'에서 'float'(으)로 잘립니다.
+C:\soongsil\algorithm\OptimalBinarySearchTrees\OptimalBinarySearchTrees\main.c(22,13): warning C4305:  '=': 'double'에서 'float'(으)로 잘립니다.
+C:\soongsil\algorithm\OptimalBinarySearchTrees\OptimalBinarySearchTrees\main.c(23,13): warning C4305:  '=': 'double'에서 'float'(으)로 잘립니다.
+C:\soongsil\algorithm\OptimalBinarySearchTrees\OptimalBinarySearchTrees\main.c(24,13): warning C4305:  '=': 'double'에서 'float'(으)로 잘립니다.
+C:\soongsil\algorithm\OptimalBinarySearchTrees\OptimalBinarySearchTrees\main.c(25,13): warning C4305:  '=': 'double'에서 'float'(으)로 잘립니다.
+C:\soongsil\algorithm\OptimalBinarySearchTrees\OptimalBinarySearchTrees\main.c(26,13): warning C4305:  '=': 'double'에서 'float'(으)로 잘립니다.
+C:\soongsil\algorithm\OptimalBinarySearchTrees\OptimalBinarySearchTrees\main.c(53,70): warning C4090:  '함수': 'const' 한정자가 서로 다릅니다.
+C:\soongsil\algorithm\OptimalBinarySearchTrees\OptimalBinarySearchTrees\main.c(59,75): warning C4090:  '함수': 'const' 한정자가 서로 다릅니다.
+C:\soongsil\algorithm\OptimalBinarySearchTrees\OptimalBinarySearchTrees\main.c(61,72): warning C4090:  '함수': 'const' 한정자가 서로 다릅니다.
+  OptimalBinarySearchTrees.vcxproj -> C:\soongsil\algorithm\OptimalBinarySearchTrees\Debug\OptimalBinarySearchTrees.exe

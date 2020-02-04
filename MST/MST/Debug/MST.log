@@ -1,0 +1,3 @@
+﻿  Kruskal.c
+C:\soongsil\algorithm\MST\MST\Kruskal.c(34,6): warning C4101:  'i' :참조되지 않은 지역 변수입니다.
+  MST.vcxproj -> C:\soongsil\algorithm\MST\Debug\MST.exe
